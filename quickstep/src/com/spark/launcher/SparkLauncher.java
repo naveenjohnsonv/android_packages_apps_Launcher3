@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.octavi.launcher;
+package com.spark.launcher;
 
 import com.android.launcher3.uioverrides.QuickstepLauncher;
 import com.android.systemui.plugins.shared.LauncherOverlayManager;
 
-public class OctaviLauncher extends QuickstepLauncher {
+public class SparkLauncher extends QuickstepLauncher {
 
     @Override
     protected LauncherOverlayManager getDefaultOverlay() {

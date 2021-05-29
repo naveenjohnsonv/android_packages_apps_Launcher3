@@ -21,7 +21,7 @@ import static com.android.launcher3.states.RotationHelper.ALLOW_ROTATION_PREFERE
 import static com.android.launcher3.states.RotationHelper.getAllowRotationDefaultValue;
 import static com.android.launcher3.util.SecureSettingsObserver.newNotificationSettingsObserver;
 
-import static com.octavi.launcher.OverlayCallbackImpl.KEY_ENABLE_MINUS_ONE;
+import static com.spark.launcher.OverlayCallbackImpl.KEY_ENABLE_MINUS_ONE;
 
 import com.android.launcher3.customization.IconDatabase;
 import android.app.Activity;

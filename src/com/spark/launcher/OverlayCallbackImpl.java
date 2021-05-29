@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.octavi.launcher;
+package com.spark.launcher;
 
 import android.app.Activity;
 import android.content.SharedPreferences;

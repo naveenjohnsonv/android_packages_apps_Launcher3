@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.octavi.launcher;
+package com.spark.launcher;
 
 import com.android.launcher3.Launcher;
 import com.android.systemui.plugins.shared.LauncherOverlayManager;
 
-public class OctaviLauncher extends Launcher {
+public class SparkLauncher extends Launcher {
 
     @Override
     protected LauncherOverlayManager getDefaultOverlay() {
